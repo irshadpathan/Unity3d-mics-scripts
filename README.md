@@ -4,7 +4,7 @@ Common Scripts using for regular development don't vest time use this
 
 
 
-**  :computer: Facebook Share Without SDK
+**Facebook Share Without SDK
 
 
 
