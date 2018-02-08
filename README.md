@@ -11,6 +11,7 @@ Common Scripts using for regular development don't vest time use this
 * Automatic typing
 * Camera Shake
 * FPS  Script Frame per Seconds
+* Device Details
 
 
  :globe_with_meridians: My Site [WebSite](http://www.irshadkhan.info).
