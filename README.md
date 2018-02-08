@@ -12,6 +12,7 @@ Common Scripts using for regular development don't vest time use this
 * Camera Shake
 * FPS  Script Frame per Seconds
 * Device Details
+* Send Email via gmail or own server
 
 
  :globe_with_meridians: My Site [WebSite](http://www.irshadkhan.info).
