@@ -10,6 +10,7 @@ Common Scripts using for regular development don't vest time use this
 * Timezone and Ip Base Location
 * Automatic typing
 * Camera Shake
+* FPS  Script Frame per Seconds
 
 
  :globe_with_meridians: My Site [WebSite](http://www.irshadkhan.info).
