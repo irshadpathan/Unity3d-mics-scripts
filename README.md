@@ -8,6 +8,7 @@ Common Scripts using for regular development don't vest time use this
 * Facebook Share Without SDK
 * Twitter Share Without SDK
 * Timezone and Ip Base Location
+* Automatic typing
 
 
 
