@@ -13,6 +13,7 @@ Common Scripts using for regular development don't vest time use this
 * FPS  Script Frame per Seconds
 * Device Details
 * Send Email via gmail or own server
+* Daily Reward System easy to use
 
 
  :globe_with_meridians: My Site [WebSite](http://www.irshadkhan.info).
